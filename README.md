@@ -4,7 +4,7 @@
 
 <h2>🚀 Watch Live :</h2>
 
-[www.developer-portfolio-landing-page.com](https://developer-portfolio-landing-page-s25.netlify.app/)
+[www.squares-and-circles.com](https://squares-and-circles.netlify.app/)
 
 <h2>👁️ Project Overview :</h2>
 
